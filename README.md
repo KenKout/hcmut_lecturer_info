@@ -1,6 +1,4 @@
-Certainly! Here's a README file for your GitHub repository with the given Python script:
 
-```markdown
 # HCMUT Lecturer Information Crawler
 
 This Python script allows you to scrape information about lecturers from the Ho Chi Minh City University of Technology (HCMUT) website and store it in a JSON file.
